@@ -1,0 +1,12 @@
+c:\users\rahul.chidurala\documents\visual studio 2013\Projects\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.exe
+c:\users\rahul.chidurala\documents\visual studio 2013\Projects\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.exe.config
+c:\users\rahul.chidurala\documents\visual studio 2013\Projects\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.exe
+c:\users\rahul.chidurala\documents\visual studio 2013\Projects\Day2Assignment\Day2Assignment\bin\Debug\Day2Assignment.pdb
+c:\users\rahul.chidurala\documents\visual studio 2013\Projects\Day2Assignment\Day2Assignment\bin\Debug\MySql.Data.dll
+c:\users\rahul.chidurala\documents\visual studio 2013\Projects\Day2Assignment\Day2Assignment\obj\Debug\Day2Assignment.pdb
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Day 2 Project\bin\Debug\Day2Assignment.exe.config
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Day 2 Project\obj\Debug\Day2Assignment.exe
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Day 2 Project\obj\Debug\Day2Assignment.pdb
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Day 2 Project\bin\Debug\Day2Assignment.exe
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Day 2 Project\bin\Debug\Day2Assignment.pdb
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Day 2 Project\obj\Debug\Day2_and_3_Assignment.csprojResolveAssemblyReference.cache

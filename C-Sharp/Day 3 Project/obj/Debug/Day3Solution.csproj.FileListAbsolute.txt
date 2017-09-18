@@ -1,0 +1,21 @@
+H:\C# Training\Day3\Day3Solution\Day3Solution\bin\Debug\Day2Solution.exe.config
+H:\C# Training\Day3\Day3Solution\Day3Solution\bin\Debug\Day2Solution.exe
+H:\C# Training\Day3\Day3Solution\Day3Solution\bin\Debug\Day2Solution.pdb
+H:\C# Training\Day3\Day3Solution\Day3Solution\bin\Debug\MySql.Data.dll
+H:\C# Training\Day3\Day3Solution\Day3Solution\obj\Debug\Day3Solution.csprojResolveAssemblyReference.cache
+H:\C# Training\Day3\Day3Solution\Day3Solution\obj\Debug\Day2Solution.exe
+H:\C# Training\Day3\Day3Solution\Day3Solution\obj\Debug\Day2Solution.pdb
+I:\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\Day2Solution.exe.config
+I:\training\C#\Solutions\Day3Solution\Day3Solution\obj\Debug\Day2Solution.exe
+I:\training\C#\Solutions\Day3Solution\Day3Solution\obj\Debug\Day2Solution.pdb
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\Day2Solution.exe.config
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\obj\Debug\Day2Solution.exe
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\obj\Debug\Day2Solution.pdb
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\Day2Solution.exe
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\Day2Solution.pdb
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\MySql.Data.dll
+\\prodsan-okc-nl.paycomhq.com\pcmgroups$\devdocs\training\C#\Solutions\Day3Solution\Day3Solution\obj\Debug\Day3Solution.csprojResolveAssemblyReference.cache
+I:\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\Day2Solution.exe
+I:\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\Day2Solution.pdb
+I:\training\C#\Solutions\Day3Solution\Day3Solution\bin\Debug\MySql.Data.dll
+I:\training\C#\Solutions\Day3Solution\Day3Solution\obj\Debug\Day3Solution.csprojResolveAssemblyReference.cache

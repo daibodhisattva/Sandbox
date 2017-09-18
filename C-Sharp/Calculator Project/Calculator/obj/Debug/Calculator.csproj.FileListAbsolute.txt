@@ -1,0 +1,12 @@
+c:\users\minhduc.pham\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\minhduc.pham\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\minhduc.pham\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\minhduc.pham\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\minhduc.pham\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\minhduc.pham\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Calculator Project\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Calculator Project\Calculator\obj\Debug\Calculator.exe
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Calculator Project\Calculator\obj\Debug\Calculator.pdb
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Calculator Project\Calculator\bin\Debug\Calculator.exe
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Calculator Project\Calculator\bin\Debug\Calculator.pdb
+C:\Users\david.johnson\Desktop\Training Assignments\C#\Calculator Project\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
